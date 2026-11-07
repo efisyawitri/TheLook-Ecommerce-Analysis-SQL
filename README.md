@@ -12,7 +12,7 @@
 
 ### 1. Berapa jumlah order dengan status Complete? 
 
-![Pertanyaa 1](assets/pertanyaan1.png)
+![Pertanyaa 1](assets/6697200a-4f72-4cce-8868-ddc0dee49130.jpg)
 
 Jumlah order dengan status Complete yang tercatat adalah 80.000 order. 
 
